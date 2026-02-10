@@ -1,0 +1,7 @@
+# attack_name,attack_type,target_type,target_ids,start_time_s,end_time_s,params
+
+# Full blackhole on satellite node 10 from t=50s to t=250s
+blackhole_top5,node_blackhole,node,3,50,200,
+
+# Grayhole on satellite node 11 from t=100s to t=300s, % drops
+# grayhole_planeP7,node_grayhole,node,14,50,200,drop_prob=0.5

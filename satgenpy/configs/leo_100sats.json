@@ -1,0 +1,23 @@
+{
+  "constellation_name": "leo_100sats",
+  "num_orbital_planes": 10,
+  "num_sats_per_plane": 10,
+  "inclination_deg": 53,
+  "altitude_km": 550,
+  "inter_plane_spacing_deg": 36.0,
+  "raan_offset_deg": 0.0,
+  "start_epoch": "2025-01-01T00:00:00Z",
+  "simulation_duration_s": 200,
+  "time_step_s": 0.1,
+  "ground_stations": [
+    {"id": 0, "lat_deg": 37.7749, "lon_deg": -122.4194},
+    {"id": 1, "lat_deg": 40.7128, "lon_deg": -74.0060},
+    {"id": 2, "lat_deg": 51.5074, "lon_deg": -0.1278},
+    {"id": 3, "lat_deg": 35.6895, "lon_deg": 139.6917},
+    {"id": 4, "lat_deg": 48.8566, "lon_deg": 2.3522},
+    {"id": 5, "lat_deg": -33.8688, "lon_deg": 151.2093},
+    {"id": 6, "lat_deg": 55.7558, "lon_deg": 37.6173},
+    {"id": 7, "lat_deg": -23.5505, "lon_deg": -46.6333}
+  ]
+}
+

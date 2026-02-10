@@ -1,0 +1,14 @@
+Configure run and logs directory,246404
+Configure simulator,1738229
+Setup TCP parameters,477108
+Create initial single forwarding state,652764196
+Setup routing arbiter on each node,335764255
+Create initial single forwarding state,43119627
+Set first GSL interface bandwidth,2032934
+Read UDP burst schedule,8073736
+Remove previous UDP burst log files,42501
+Setup UDP burst applications,16917985
+Whatever is between previous timestamp and the simulation run,72701
+Run simulation,1448982902784
+Write UDP burst log files,18404616
+Destroy simulator,43313543

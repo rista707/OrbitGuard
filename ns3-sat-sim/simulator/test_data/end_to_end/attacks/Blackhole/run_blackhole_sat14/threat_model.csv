@@ -1,0 +1,2 @@
+# attack_name,attack_type,target_type,target_ids,start_time_s,end_time_s,params
+blackhole_sat14,node_blackhole,node,14,50.0,200.0,
