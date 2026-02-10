@@ -1,5 +1,3 @@
-
-
 # General
 sudo apt-get update || exit 1
 pip install numpy astropy ephem networkx sgp4 geopy matplotlib statsmodels || exit 1
