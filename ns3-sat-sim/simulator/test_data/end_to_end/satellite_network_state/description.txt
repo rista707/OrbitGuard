@@ -1,0 +1,2 @@
+max_gsl_length_m=1200000.0000000000
+max_isl_length_m=5700000.0000000000
